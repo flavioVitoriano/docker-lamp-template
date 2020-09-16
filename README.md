@@ -8,6 +8,10 @@ esse template foi feito visando facilitar o uso de um servidor LAMP em docker.
 * phpmyadmin: phpmyadmin
 
 
+### como usar
+edit/coloque seu codigo na pasta src/  
+
+
 ### rodar
 para rodar o projeto, rode:
     ```
