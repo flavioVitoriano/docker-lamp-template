@@ -17,7 +17,7 @@ para rodar o projeto, rode:
 ### acessar
 * http://localhost:8000 -> site (apache)  
 * http://localhost:8080 -> phpmyadmin (phpmyadmin)
-* http://localhost:3306 -> mysql (db)
+* mysql://admin:password@localhost:3306 -> mysql (db)
  
 ### Criadores
 Flávio Vitoriano ->  [github](https://www.github.com/flavioVitoriano).  
