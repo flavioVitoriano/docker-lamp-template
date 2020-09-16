@@ -21,4 +21,4 @@ para rodar o projeto, rode:
  
 ### Criadores
 Flávio Vitoriano ->  [github](https://www.github.com/flavioVitoriano).  
-José Clovis -> [github](https://www.github.com/JClovis).  
+José Clovis -> [github](https://www.github.com/JoseClovis).  
